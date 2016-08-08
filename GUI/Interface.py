@@ -2,8 +2,6 @@ import tkinter
 from tkinter import scrolledtext
 from tkinter import Menu
 
-__do_not_access = ""
-
 # constants for gui
 WINDOW_WIDTH = 640
 WINDOW_HEIGHT = 480
